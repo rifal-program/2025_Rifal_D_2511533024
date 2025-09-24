@@ -12,7 +12,7 @@ public class ContohChar {
 	   // Menampilkan nilai variabel char
 	   System.out.println("contoh variabel char:");
 	   System.out.println("huruf pertama:" + huruf1);
-	   System.out.println("huruf pertama:" + huruf2);
+	   System.out.println("huruf kedua:" + huruf2);
 	   System.out.println("Angka: " + angka);
 	   System.out.println("simbol: " + simbol);
 	   
